@@ -1,2 +1,2 @@
-# win11_scripts_n_utils
+# WIN11 Scripts and Utilities
 Collection of Windows 11 Scripts and Utilities

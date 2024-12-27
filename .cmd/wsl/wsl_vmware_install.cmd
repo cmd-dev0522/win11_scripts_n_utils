@@ -1,0 +1,3 @@
+call wsl_install_core.cmd
+call wsl_vmware_workaround_core.cmd
+call restart_now.cmd
